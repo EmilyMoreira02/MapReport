@@ -1,6 +1,8 @@
 # Error 404 - Team Not Fund
 
-![Logo do time](https://drive.google.com/file/d/1yMeZNrPNwe9Hqn_KM1bQUp-9ecpHgg0W/view?usp=sharing)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c231df96-0c8e-43dc-bf88-16decb9d8af4" width="65%">
+</div>
 
 ## MapReport
 
