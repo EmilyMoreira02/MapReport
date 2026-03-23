@@ -11,3 +11,4 @@
 - Camilly Vitoria da Encarnação - Design e Front-end
 
 ### Descrição
+Na pagina inicial temos os relatos dos problemas da cidade
